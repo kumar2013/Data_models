@@ -1,0 +1,1 @@
+This folder contains the database designs and models for e-commerce grocery store.
